@@ -1,5 +1,3 @@
 def meal_choice(meal="meat")
- puts #{meal}
- return #{meal}
- binding.pry
+ return "#{meal}"
 end
